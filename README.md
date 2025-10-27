@@ -15,22 +15,22 @@ Arabic (ar) • Danish (da) • German (de) • Greek (el) • English (en) • 
 
 # VibeVoice-Multi-Speaker
 
+## Huggingface Image (1)
 <img width="1675" height="968" alt="Kentuss-vibe-voice-custom-voices-test-with" src="https://github.com/user-attachments/assets/0ce34489-391d-4604-8387-37345b1ad787" />
 
 
-
+## Huggingface Image (2)
 <img width="1559" height="832" alt="Screenshot 2025-10-26 193019" src="https://github.com/user-attachments/assets/100658d5-73cd-4297-bb6c-517f56469b37" />
 
 
 
-
+## Huggingface Image (3)
 <img width="1713" height="980" alt="urdu" src="https://github.com/user-attachments/assets/8187d78e-cd0c-4577-81e3-7c2153df9eb6" />
 
 
 
 
-
-
+## Huggingface LINK
 VibeVoice-Large:- https://huggingface.co/aoi-ot/VibeVoice-Large
 
 
@@ -40,5 +40,6 @@ VibeVoice-1.5B:- https://huggingface.co/microsoft/VibeVoice-1.5B/tree/main
 Qwen2.5-1.5B:-  https://huggingface.co/Qwen/Qwen2.5-1.5B
 
 https://github.com/nzgnzg73/VibeVoice-Multi-Speaker/blob/42293eba6c7ecb2e62e2bce7a487e5f444a39ce7/Kentuss-vibe-voice-custom-voices-test-with.png
+
 
 

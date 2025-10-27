@@ -1,3 +1,5 @@
+This library is taken from Hugging Face and released on GitHub. To install it, you have to give the same command that is used for Hugging Face. As for the GPU (graphics card), what I have told you below may be more powerful than this, but I am pretty sure that it is at least more than a 16 GB graphics card.
+
 
 ## VibeVoice-Multi-Speaker
 
@@ -40,6 +42,7 @@ VibeVoice-1.5B:- https://huggingface.co/microsoft/VibeVoice-1.5B/tree/main
 Qwen2.5-1.5B:-  https://huggingface.co/Qwen/Qwen2.5-1.5B
 
 https://github.com/nzgnzg73/VibeVoice-Multi-Speaker/blob/42293eba6c7ecb2e62e2bce7a487e5f444a39ce7/Kentuss-vibe-voice-custom-voices-test-with.png
+
 
 
 

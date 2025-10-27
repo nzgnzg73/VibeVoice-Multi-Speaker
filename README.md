@@ -10,6 +10,9 @@ pinned: false
 short_description: Vibe Voice Large with Custom Voices (Voice Cloning)
 ---
 
+Kentuss-vibe-voice-custom-voices-test-with.png
+
+
 VibeVoice-Large:- https://huggingface.co/aoi-ot/VibeVoice-Large
 
 
@@ -17,3 +20,5 @@ VibeVoice-1.5B:- https://huggingface.co/microsoft/VibeVoice-1.5B/tree/main
 
 
 Qwen2.5-1.5B:-  https://huggingface.co/Qwen/Qwen2.5-1.5B
+
+https://github.com/nzgnzg73/VibeVoice-Multi-Speaker/blob/42293eba6c7ecb2e62e2bce7a487e5f444a39ce7/Kentuss-vibe-voice-custom-voices-test-with.png

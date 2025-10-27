@@ -1,0 +1,8 @@
+
+VibeVoice-Large:- https://huggingface.co/aoi-ot/VibeVoice-Large
+
+
+VibeVoice-1.5B:- https://huggingface.co/microsoft/VibeVoice-1.5B/tree/main
+
+
+Qwen2.5-1.5B:-  https://huggingface.co/Qwen/Qwen2.5-1.5B
